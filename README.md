@@ -1,7 +1,9 @@
-# GitHub Issues & Projects for Teams
-This is the repository for the LinkedIn Learning course GitHub Issues & Projects for Teams. The full course is available from [LinkedIn Learning][lil-course-url].
+# GitHub Issues and Projects for Teams
+This is the repository for the LinkedIn Learning course GitHub Issues and Projects for Teams. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
+
+With the plethora of issue-tracking tools out there, it can be challenging and confusing to plan and execute collaboration between and within teams. Github Issues, alongside Projects, can maximize autonomy and productivity within your organization, covering all points of a cross-functional team, including engineering, product, and design on one platform. In this course, instructor Teresa Luz Miller helps you help your team members learn how to effectively communicate with each other on the same platform to ensure productivity and collaboration is set across all levels of a team. Teresa guides you through the basics of creating an issue, using task lists, adding assignees, and linking pull requests. She shows you how to manage labels and milestones and use templates. Teresa goes over ways to manage issues, create a project, attach and remove existing issues, manage iterations, and more. Plus, she explains best practices for teamwork planning, as well as managing issues and projects.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -27,8 +29,15 @@ To resolve this issue:
 3. [Course-specific instructions]
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Teresa Luz Miller 
+                            
 
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/teresa-luz-miller).
+
+[lil-course-url]: https://www.linkedin.com/learning/github-issues-and-projects-for-teams?dApp=59033956
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3212262/1666809902898?e=2147483647&v=beta&t=v66QUcqWwGZR6FDIhmULueDK2o-vDlFC5ebLAsu0i0M-16x9.jpg
